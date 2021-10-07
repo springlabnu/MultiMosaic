@@ -32,7 +32,7 @@ Our software and algorithm is free to use under the GPL 3.0. We only ask that yo
 
 Clone the repository and run compile_gc.m (in GCmex2.0 directory) to build the MEX libraries and enable graph-cut based stitching.
 
-The MultiMosaic.mlapp file has been tested on Windows 10 / Matlab R2021a. It requires the Computer Vision Toolbox.
+The MultiMosaic.mlapp file has been tested on Windows 10 / Matlab R2021a. It requires the Computer Vision and Statistics and Machine Learning Toolboxes.
 
 Make sure all content in the repo are included in the Matlab path.
 
